@@ -1,10 +1,10 @@
 """
 Loading model
-    model = torch.hub.load("PeterL1n/RobustVideoMatting", "mobilenetv3")
-    model = torch.hub.load("PeterL1n/RobustVideoMatting", "resnet50")
+    model = torch.hub.load("DongMaicle/RobustVideoMatting", "mobilenetv3")
+    model = torch.hub.load("DongMaicle/RobustVideoMatting", "resnet50")
 
 Converter API
-    convert_video = torch.hub.load("PeterL1n/RobustVideoMatting", "converter")
+    convert_video = torch.hub.load("DongMaicle/RobustVideoMatting", "converter")
 """
 
 
